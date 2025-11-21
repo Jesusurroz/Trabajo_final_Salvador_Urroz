@@ -1,11 +1,11 @@
-# 🚗 Autos NARLA – Base de Datos
+Autos NARLA – Base de Datos
 
 Este repositorio contiene el desarrollo del caso de estudio **Autos NARLA_**, un auto lote que requiere organizar su información a través de una base de datos en **SQL Server 2022 (v21)**.  
 El proyecto incluye diseño de tablas, relaciones, población de datos y consultas Transact-SQL.
 
 ---
 
-## 📌 Objetivo
+ Objetivo
 Diseñar e implementar una base de datos normalizada para gestionar inventario, ventas, clientes y empleados, optimizando los procesos de búsqueda, registro y control de vehículos.
 
 Contenido del repositorio
